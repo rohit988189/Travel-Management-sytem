@@ -1,0 +1,8 @@
+User: rohit
+From: Delhi To: Chennai
+Mode: Bus
+Travel Cost: Rs 1600
+Return Travel Cost: Rs 1470
+Hotel Cost: Rs 7862.5
+Total Cost: Rs 10932.5
+
